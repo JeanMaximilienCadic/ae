@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://drive.google.com/uc?id=1WyX0YZ1raHjmCQry2IZKsTG2Nebl1ch6"><img src=1WyX0YZ1raHjmCQry2IZKsTG2Nebl1ch6" alt="IDGraph" width="200"></a>
+  <a href="https://drive.google.com/uc?id=1WyX0YZ1raHjmCQry2IZKsTG2Nebl1ch6"><img src=1WyX0YZ1raHjmCQry2IZKsTG2Nebl1ch6" alt="AE" width="200"></a>
   <br>
   AE
   <br>
