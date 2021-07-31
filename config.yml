@@ -1,0 +1,15 @@
+project: ae
+
+fs:
+  data: "data"
+  model_path: 'pth/conv_autoencoder.pth'
+
+img:
+  W: 400
+
+trainer:
+  bs: 16
+  nsamples: 80
+  epochs: 100
+  lr: 0.001
+  wdc: 0.00001
