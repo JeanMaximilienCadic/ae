@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.14.0
 
 COPY requirements /
 RUN pip install -r requirements.txt
